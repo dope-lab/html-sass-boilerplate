@@ -1,7 +1,7 @@
 {
   "name": "html-sass-boilerplate",
   "version": "1.0.0",
-  "description": "An HTML5 boilerplate with node sass support",
+  "description": "An HTML5 boilerplate with gulp-sass support",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
