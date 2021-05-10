@@ -21,3 +21,5 @@ jspm_packages/
 #compiled files
 
 assets/dist/
+
+package-lock.json
