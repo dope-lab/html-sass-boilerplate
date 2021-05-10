@@ -17,3 +17,7 @@ jspm_packages/
 # dotenv environment variables file
 .env
 .env.test
+
+#compiled files
+
+assets/dist/
